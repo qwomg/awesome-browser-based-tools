@@ -50,6 +50,8 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Image and Media Tools
 
+- [File Converter](https://fileontap.com/) - Convert and compress HEIC/WebP/PNG/JPG images and handle image↔PDF workflows locally in the browser; no upload or account. `local-first` `privacy-first`
+
 - [24Picture](https://24picture.com) - Browser-local image toolkit with converters, compressors, editors, GIF tools, batch conversion, and PWA support. `local-first` `privacy-first` `pwa`
 - [Squoosh](https://squoosh.app/) - Image compression and format conversion from the browser, originally by GoogleChromeLabs. `local-first` `open-source`
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web UI for SVGO, useful for optimizing SVG files before shipping them. `local-first` `open-source`
